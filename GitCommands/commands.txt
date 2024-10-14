@@ -1,0 +1,3 @@
+git add Basic/multiply.py
+git commit -m "I am write multiply program"
+git push
