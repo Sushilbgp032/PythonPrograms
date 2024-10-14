@@ -1,0 +1,60 @@
+# marks1 = 94.4
+# marks2 = 87.5
+# marks3 = 95.3
+# marks4 = 66.2
+# marks5 = 78.1
+
+# marks = [94.4,87.5,95.3,66.2,78.1]
+# print(marks)
+# print(type(marks))
+# print(marks[0])
+# print(marks[3])
+
+# student = ["sushil kumar", 95.4,22,"bhagalpur"]
+# print(student)
+
+# print (student[1])
+# marks = [84,56,32,56,90]
+# print(marks[1:4])
+# print(marks[1:])
+# print(marks[:4])
+# print(marks[-3:-1]) 
+
+#append method
+
+# list = [2,3,6]
+# list.append(4)
+# print(list)
+
+# #sort method
+# list = [2,1,3]
+# print(list.sort(reverse=True))
+# print(list)
+
+
+list = ["banana","grapes","apple","orange","litchi"]
+# print(list.append(4))
+print(list.sort())
+print(list) 
+
+list = ['a','d','e','f','c','b']
+print(list.reverse())
+print(list)
+
+list = [2,1,3]
+list.insert(2,5)
+print(list)
+
+list = [2,1,3,1]
+list.pop(2)
+print(list)
+
+#tupples
+tup = (87,64,33,95,76)
+print(tup[0])
+print(tup[1])
+
+tup = (1)
+print(tup)
+print(type(tup))
+
